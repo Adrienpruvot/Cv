@@ -1,0 +1,121 @@
+body
+{
+    max-width       : 1600px;
+    margin: auto;
+}
+scqscscsc
+li
+{
+    list-style      : none;
+}
+
+/* Left Side */
+
+.left_side
+{
+    float: left;
+    font-family     : 'Montserrat', sans-serif;
+    background-color: aqua;
+    max-width : 300px;
+    max-height: 100%;
+    position: relative;
+}
+
+.left_title
+{
+    background-color: #263238;
+    font-family     : 'Montserrat', sans-serif;
+    font-size       : 1.7em;
+    padding-top     : 10px;
+    padding-bottom  : 8px;
+    margin-top      : 15px;
+    margin-bottom   : 15px;
+    text-align      : center;
+    color           : aqua;
+
+}
+
+/* Contact */
+.contact_content
+{
+    font-family     : 'Montserrat', sans-serif;
+    font-size       : 1em;
+    padding-left    : 20px;
+    padding-right   : 10px;
+}
+
+.contact_content li
+
+{
+    list-style   : none;
+    line-height  : 1.2em;
+    margin-top   : 15px;
+    margin-bottom: 15px;
+    margin-left  : 20px;
+    margin-right : 10px;
+}
+
+/* A propos */
+.a_propos_content
+{
+    font-family     : 'Montserrat', sans-serif;
+    font-size       : 1em;
+    padding-left    : 20px;
+    padding-right   : 10px;
+}
+
+.a_propos_content li
+
+{
+    list-style   : none;
+    line-height  : 1.2em;
+    margin-top   : 10px;
+    margin-bottom: 10px;
+    margin-left  : 20px;
+    margin-right : 10px;
+}
+
+/* Loisir */
+
+.loirir_content
+{
+    font-size       : 1.8em;
+    text-align: center;
+    margin-left: auto;
+}
+
+/* Right Side */
+
+.right_side
+{
+    font-family     : 'Montserrat', sans-serif;
+    float: none;
+    background-color:#E4E4E4;
+    max-height: 100%;
+    max-width       : 70%;
+}
+/* Name */
+.my_name
+{
+    font-size: 1.5em;
+    display: inline;
+    float: left;
+    padding-top: 50px;
+}
+
+.nickname
+{
+    float: none;
+    padding-left: 50px;
+    color           : aqua;
+}
+
+.name
+{
+    padding-left: 20px;
+}
+
+.my_job
+{
+
+}
