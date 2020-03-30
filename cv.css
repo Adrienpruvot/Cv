@@ -51,7 +51,7 @@ li
 {
     font-family     : 'Montserrat', sans-serif;
     font-size       : 1em;
-    padding-left    : 20px;
+    padding-left    : 10px;
     padding-right   : 10px;
 }
 
@@ -62,8 +62,12 @@ li
     line-height  : 1.2em;
     margin-top   : 15px;
     margin-bottom: 15px;
-    margin-left  : 20px;
     margin-right : 10px;
+}
+.left_side a{
+    color: black;
+    text-decoration: none;
+    font-style: italic;
 }
 
 /* A propos */
@@ -71,7 +75,7 @@ li
 {
     font-family     : 'Montserrat', sans-serif;
     font-size       : 1em;
-    padding-left    : 20px;
+    padding-left    : 10px;
     padding-right   : 10px;
 }
 
@@ -81,7 +85,6 @@ li
     line-height  : 1.2em;
     margin-top   : 10px;
     margin-bottom: 10px;
-    margin-left  : 20px;
     margin-right : 10px;
 }
 
@@ -181,7 +184,6 @@ li
 
 .formation li span{ 
     font-size: 14px;
-
 }
 
 .place_italic{
